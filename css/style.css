@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #3CBAE4;
+  background-image: url("http://www.heismakingeverythingnew.com/wp-content/uploads/2014/05/olaf-snowman.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/*
+img {
+  margin-top: -300px;
+}
+*/
